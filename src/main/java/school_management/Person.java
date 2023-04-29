@@ -38,3 +38,4 @@ public class Person {
         this.age = age;
     }
 }
+// ekleme yaptim
